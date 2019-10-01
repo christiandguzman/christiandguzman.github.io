@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.473359cf.chunk.css",
+    "main.js": "/static/js/main.03146411.chunk.js",
+    "main.js.map": "/static/js/main.03146411.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.0be9e7ee.js",
+    "runtime~main.js.map": "/static/js/runtime~main.0be9e7ee.js.map",
+    "static/js/2.e00f133f.chunk.js": "/static/js/2.e00f133f.chunk.js",
+    "static/js/2.e00f133f.chunk.js.map": "/static/js/2.e00f133f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8be6f81ecd2c8c627161c502949c1e5d.js": "/precache-manifest.8be6f81ecd2c8c627161c502949c1e5d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.473359cf.chunk.css.map": "/static/css/main.473359cf.chunk.css.map",
+    "static/media/background.jpg": "/static/media/background.f796edb9.jpg",
+    "static/media/christian-2.jpg": "/static/media/christian-2.07aa5a57.jpg",
+    "static/media/christian.jpg": "/static/media/christian.40cf2215.jpg",
+    "static/media/debadman.PNG": "/static/media/debadman.8170743c.PNG",
+    "static/media/online-store.PNG": "/static/media/online-store.a9c4d3ed.PNG"
+  }
+}
